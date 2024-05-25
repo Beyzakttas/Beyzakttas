@@ -2,7 +2,7 @@
 
 
 
-Fotoğraf ekleme : [![MasterHead](oq=fotoğraf+teklonojı&gs_lp=EgNpbWciFGZvdG_En3JhZiB0ZWtsb25vasSxSNEgUNYCWLUecAB4AJABAJgB-AGgAYwPqgEFMC45LjK4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ8ICDRAAGIAEGLEDGEMYigXCAgUQABiABMICCBAAGIAEGLEDwgIKEAAYgAQYQxiKBcICBhAAGAUYHsICBhAAGAgYHogGAQ&sclient=img&ei=GexRZuiXN-y8i-gP5o60uAY&bih=)
+Fotoğraf ekleme : [http:2ahUKEwioiPnG-KiGAxVs3gIHHWYHDWcQ2-cCegQIABAA&oq=fotoğraf+teklonojı&gs_lp=EgNpbWciFGZvdG_En3JhZiB0ZWtsb25vasSxSNEgUNYCWLUecAB4AJABAJgB-AGgAYwPqgEFMC45LjK4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ8ICDRAAGIAEGLEDGEMYigXCAgUQABiABMICCBAAGIAEGLEDwgIKEAAYgAQYQxiKBcICBhAAGAUYHsICBhAAGAgYHogGAQ&)
 
  <h1 align="center">Hi 👋, I'm Beyzakttas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
