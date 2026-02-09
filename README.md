@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">A passionate Computer Engineering Student and Developer from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate Computer Engineering Developer from Turkey 🇹🇷</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
