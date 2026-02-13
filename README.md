@@ -8,5 +8,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyzakttas&show_icons=true&locale=en&theme=radical" alt="beyzakttas" />
+  <img src="https://github.com/Beyzakttas" alt="beyzakttas" />
 </p>
