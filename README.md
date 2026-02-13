@@ -8,4 +8,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<a href="https://github.com/Beyzakttas">GitHub Profilim</a></p>
+![Beyza'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Beyzakttas&show_icons=true&theme=tokyonight)
