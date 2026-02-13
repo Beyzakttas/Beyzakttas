@@ -8,5 +8,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github.com/Beyzakttas" alt="beyzakttas" />
-</p>
+<a href="https://github.com/Beyzakttas">GitHub Profilim</a></p>
